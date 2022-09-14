@@ -1,0 +1,2 @@
+# linkedMail
+Desktop messaging service
