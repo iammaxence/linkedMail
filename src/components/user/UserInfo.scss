@@ -1,0 +1,11 @@
+.user-container {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 1.5rem;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+}
